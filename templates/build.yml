@@ -1,5 +1,3 @@
-3. In Visual Studio Code, add this code to build.yml.
-
 parameters:
  buildConfiguration: 'Release'
 steps:
