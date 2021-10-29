@@ -1,5 +1,16 @@
 {
   "version": 1,
   "isRoot": true,
+<<<<<<< HEAD
   "tools": {}
+=======
+  "tools": {
+    "dotnet-reportgenerator-globaltool": {
+      "version": "4.8.13",
+      "commands": [
+        "reportgenerator"
+      ]
+    }
+  }
+>>>>>>> 9f4fbfef44afae1153b5e61de0cdcc333a79a5e5
 }
