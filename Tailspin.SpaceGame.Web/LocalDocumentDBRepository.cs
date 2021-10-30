@@ -68,7 +68,6 @@ namespace TailSpin.SpaceGame.Web
         }
     
 
-
         /// <summary>
         /// Retrieves the number of items that match the given query predicate.
         /// </summary>
